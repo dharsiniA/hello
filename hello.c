@@ -2,7 +2,7 @@
 main(){
 int i=0;
 do{
-printf("Hello");
+printf("Hello\n");
 i=i+1;
 }while(i<5);
 }
